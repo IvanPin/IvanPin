@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanPin
 - 👀 I’m interested in TeamLead, DevOps, Web Developer, iOs Developer.
-- 🌱 I’m currently learning Swift, Laravel, 1C-Bitrix, Next.js, Vue.js 
+- 🌱 I’m currently learning Symfony, Laravel, 1C-Bitrix, Next.js, Vue.js 
 - 📫 How to reach me
 email: ivan@itpin.net
 
